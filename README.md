@@ -5,11 +5,13 @@ Este repositório é destinado para o desenvolvimento de resoluções de ativida
 ## Tecnologias Utilizadas
 - [Python 3.10+](https://www.python.org/)
 
-##  Desafios desenvolvidos
+##  Desafios resolvidos
 
-### 1. Instalar dependências
+| Desafio | Dificuldade | Descrição resumida | Solução |
+| :--- | :---: | :--- | :---: |
+| [Candy](https://leetcode.com/problems/candy/) | Hard | Distribuir o número mínimo de doces para crianças com base em suas classificações, garantindo que uma criança com nota maior que seu vizinho receba mais doces. | [Python](/coding/doces.py) |
+| [Patching Array](https://leetcode.com/problems/patching-array/) | Hard | Adicionar o mínimo de números ("patches") a um array para que qualquer valor no intervalo `[1, n]` possa ser formado pela soma de seus elementos. | [Python](/coding/patching_array.py) |
 
-### 2. Rodar o algoritmo
 
 
 ## Autores
