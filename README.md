@@ -11,6 +11,7 @@ Este repositório é destinado para o desenvolvimento de resoluções de ativida
 | :--- | :---: | :--- | :---: |
 | [Candy](https://leetcode.com/problems/candy/) | Hard | Distribuir o número mínimo de doces para crianças com base em suas classificações, garantindo que uma criança com nota maior que seu vizinho receba mais doces. | [Python](/coding/doces.py) |
 | [Patching Array](https://leetcode.com/problems/patching-array/) | Hard | Adicionar o mínimo de números ("patches") a um array para que qualquer valor no intervalo `[1, n]` possa ser formado pela soma de seus elementos. | [Python](/coding/patching_array.py) |
+| [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | Hard | Retornar a quantidade de alterações necessarias para validar uma senha a partir de 3 regras. | [Python](/coding/password_tentativa3.py) |
 
 
 
