@@ -26,4 +26,4 @@ Dupla responsável:
 - [Maurício Ferreira](https://github.com/mauricio_araujoo)  
 
 ## Vídeo de apresentação
-[Link para o vídeo]()
+[Link para o vídeo](https://youtu.be/FBNSEjpWf4Q)
